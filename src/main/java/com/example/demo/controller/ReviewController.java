@@ -13,6 +13,6 @@ public class ReviewController {
 
     @GetMapping("/newmessage")
     public String showMessage(){
-        return "Added a new method";
+        return "Added a new method1";
     }
 }
